@@ -1,1 +1,0 @@
-web: gunicorn django_app_v2_heroku.wsgi
